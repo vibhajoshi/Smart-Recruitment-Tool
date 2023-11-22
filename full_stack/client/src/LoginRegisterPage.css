@@ -1,0 +1,26 @@
+/* LoginRegisterPage.css */
+.login-register-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url("https://careers.brillio.com/wp-content/themes/brilliotheme/assets/why_brillionew-scaled.jpg"); /* Replace with your image URL */
+  background-size: cover;
+}
+
+.login-register-form {
+  width: 400px;
+  background-color: rgba(
+    255,
+    255,
+    255,
+    0.8
+  ); /* Semi-transparent white background */
+  padding: 20px;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
